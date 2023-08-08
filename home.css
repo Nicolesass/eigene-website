@@ -1,0 +1,19 @@
+
+body {
+    box-sizing: border-box;
+    color: white;
+}
+.headline {
+    margin: 0;
+    padding: 50px;
+align-items: center;
+}
+
+.carousel {
+    
+    border-top: 2px solid #6a6969;
+    border-bottom: 2px solid #6a6969;
+}
+.container {
+    margin: 50px;
+}

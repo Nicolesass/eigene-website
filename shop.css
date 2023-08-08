@@ -1,0 +1,23 @@
+body {
+    margin: 0;
+    padding: 0;
+    
+}
+.container {
+    
+    
+    color: white;
+    
+}
+.card {
+    margin: 0;
+    padding: 50px;
+    display: flex;
+    justify-content: space-around;
+    background-color: #1a1818;
+    color: white;
+}
+.btn :hover{
+    cursor: pointer;
+    background-color: rgb(229, 140, 229);
+} 
